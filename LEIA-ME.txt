@@ -1,0 +1,7 @@
+LR Fotografia — Memórias
+
+Arquivo principal: index.html
+
+Alterações: a seção 'Quem somos' aparece antes do portfólio e a foto enviada do Rafael foi adicionada como retrato na seção. A foto está incorporada ao HTML, então não é necessário enviar um arquivo de imagem separado.
+
+Para visualizar no Mac, abra index.html no navegador. Alterações neste arquivo local não atualizam automaticamente um site publicado.
